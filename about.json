@@ -1,8 +1,8 @@
 {
   "name": "CFL category backgrounds light",
   "component": true,
-  "license_url": https://github.com/Lillinator/cfl-category-backgrounds-light/blob/main/LICENSE,
-  "about_url": https://github.com/Lillinator/cfl-category-backgrounds-light/blob/main/README.md,
+  "license_url": "https://github.com/Lillinator/cfl-category-backgrounds-light/blob/main/LICENSE",
+  "about_url": "https://github.com/Lillinator/cfl-category-backgrounds-light/blob/main/README.md",
   "authors": null,
   "theme_version": null,
   "minimum_discourse_version": null,
