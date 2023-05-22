@@ -1,0 +1,179 @@
+// add some transparent whiteness behind the post text to make it easier to read over watermark backgrounds //
+
+.cooked {
+    background-color: rgba(#ffffff, 0.50);
+    border-radius: 16px;
+}
+
+// category background watermark image flipper //
+
+.category-toronto-argonauts .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($argos-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-bc-lions .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($lions-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-saskatchewan-roughriders .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($riders-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-calgary-stampeders .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($stamps-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-winnipeg-blue-bombers .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($bombers-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-edmonton-elks .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($elks-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-hamilton-tiger-cats .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($ticats-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-ottawa-redblacks .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($redblacks-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-alouettes-de-montreal .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($als-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-canadian-grassroots-football .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($fbcanada-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+
+.category-cfl-news .background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($cfl2-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.category-cfl-talk .background-container {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+    background-color: #ffffff;
+    background-image: url($cfl2-background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
