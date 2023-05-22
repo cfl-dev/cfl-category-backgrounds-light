@@ -1,0 +1,25 @@
+{
+  "name": "CFL category backgrounds light",
+  "component": true,
+  "license_url": https://github.com/Lillinator/cfl-category-backgrounds-light/blob/main/LICENSE,
+  "about_url": https://github.com/Lillinator/cfl-category-backgrounds-light/blob/main/README.md,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "als-background": "assets/als-background.png",
+    "argos-background": "assets/argos-background.png",
+    "bombers-background": "assets/bombers-background.png",
+    "cfl1-background": "assets/cfl1-background.png",
+    "cfl2-background": "assets/cfl2-background.png",
+    "elks-background": "assets/elks-background.png",
+    "fbcanada-background": "assets/fbcanada-background.png",
+    "lions-background": "assets/lions-background.png",
+    "redblacks-background": "assets/redblacks-background.png",
+    "riders-background": "assets/riders-background.png",
+    "stamps-background": "assets/stamps-background.png",
+    "ticats-background": "assets/ticats-background.png"
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
