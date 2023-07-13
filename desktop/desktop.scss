@@ -163,7 +163,7 @@
 }
 
 .category-cfl-talk .background-container {
-  display: none;
+//  display: none;
   position: fixed;
   top: 0;
   left: 0;
@@ -171,7 +171,7 @@
   width: 100vw;
   z-index: -1;
     background-color: #ffffff;
-    background-image: url($cfl2-background);
+    background-image: url($cfl1-background);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left center;
